@@ -1,18 +1,30 @@
 {
   "files": {
     "main.css": "/Site-Portifolio/static/css/main.6b9add0f.css",
-    "main.js": "/Site-Portifolio/static/js/main.7a1e0b8d.js",
+    "main.js": "/Site-Portifolio/static/js/main.1da9829e.js",
     "static/js/206.f399a73c.chunk.js": "/Site-Portifolio/static/js/206.f399a73c.chunk.js",
     "static/media/dark.jpg": "/Site-Portifolio/static/media/dark.c1cda9e0d5088e62fa77.jpg",
     "static/media/video.mp4": "/Site-Portifolio/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
+    "static/media/project-3_2.png": "/Site-Portifolio/static/media/project-3_2.b30cb6fe78458b791735.png",
+    "static/media/project-3_4.png": "/Site-Portifolio/static/media/project-3_4.d97aeee0eaccb69534cb.png",
+    "static/media/project-3_3.png": "/Site-Portifolio/static/media/project-3_3.9e9b3ac737112c5db241.png",
+    "static/media/project-3_1.png": "/Site-Portifolio/static/media/project-3_1.a18dc3d39121091a4fe1.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Site-Portifolio/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
+    "static/media/project-1.jpg": "/Site-Portifolio/static/media/project-1.ee4b3a8bc9af495b4bca.jpg",
     "static/media/fontawesome-webfont.eot": "/Site-Portifolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Site-Portifolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/project-2_1.jpg": "/Site-Portifolio/static/media/project-2_1.88918673db959c87e759.jpg",
+    "static/media/project-2_3.jpg": "/Site-Portifolio/static/media/project-2_3.e7a127907d52459455a5.jpg",
+    "static/media/project-3.png": "/Site-Portifolio/static/media/project-3.2c72980b54afaf746bbf.png",
+    "static/media/project-2_2.jpg": "/Site-Portifolio/static/media/project-2_2.4b9866a41f400e577103.jpg",
+    "static/media/project-2.jpg": "/Site-Portifolio/static/media/project-2.f6e77b110c7cb894d76d.jpg",
+    "static/media/project-4.png": "/Site-Portifolio/static/media/project-4.5a5d098f27b183660992.png",
+    "static/media/project-2_4.jpg": "/Site-Portifolio/static/media/project-2_4.e8bf68fb5f5fe8c1beee.jpg",
     "static/media/404.jpg": "/Site-Portifolio/static/media/404.19e523cdb4d4a12db938.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Site-Portifolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Site-Portifolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/rtl.jpg": "/Site-Portifolio/static/media/rtl.fc623d3befe9a7acb1ac.jpg",
-    "static/media/cv.webp": "/Site-Portifolio/static/media/cv.174d8bc4469f8aa7c5fa.webp",
+    "static/media/Curriculum - Denis Saavedra.pdf": "/Site-Portifolio/static/media/Curriculum - Denis Saavedra.4105ecaa64162cd2b51a.pdf",
     "static/media/slick.svg": "/Site-Portifolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Site-Portifolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/Site-Portifolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -23,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.6b9add0f.css",
-    "static/js/main.7a1e0b8d.js"
+    "static/js/main.1da9829e.js"
   ]
 }
