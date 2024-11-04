@@ -3,19 +3,19 @@ import React from "react";
 const SocialShare = [
   {
     iconName: "fa fa-instagram",
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/denis_saavedra_fernandes/",
   },
   { 
     iconName: "fa fa-linkedin", 
-    link: "https://twitter.com/", 
+    link: "https://www.linkedin.com/in/denis-saavedra-38ba6521b/", 
   },
   {
     iconName: "fa fa-github",
-    link: "https://www.youtube.com/",
+    link: "https://github.com/Denis-Saavedra",
   },
   { 
     iconName: "fa fa-whatsapp", 
-    link: "https://dribbble.com/", 
+    link: "https://wa.me/5511965718805", 
   },
 ];
 
