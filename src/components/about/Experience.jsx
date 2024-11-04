@@ -30,7 +30,7 @@ const experienceContent = [
     position: "Desenvolvedor de Sistemas",
     compnayName: "TRS Sistemas",
     details: `Atualmente, trabalho como desenvolvedor de sistemas, focando no
-        desenvolvimento de aplicações web e soluções personalizadas para clientes. Minha
+        desenvolvimento de aplicações e soluções personalizadas para clientes. Minha
         função envolve a análise de requisitos, design de sistemas e programação em
         várias linguagens. Colaboro com uma equipe ágil para implementar novas
         funcionalidades e otimizar o desempenho das aplicações. Além disso, participo
