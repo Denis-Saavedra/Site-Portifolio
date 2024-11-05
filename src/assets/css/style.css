@@ -1,0 +1,32 @@
+.whatsapp-float {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    bottom: 30px;
+    right: 30px;    
+    background-color: #2b2a2a;
+    border-radius: 50%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    text-decoration: none;
+    color:white;
+    transition: all 0.3s ease;
+}
+
+body.light .whatsapp-float {
+    background-color: #eee;
+    color: #666;
+}
+
+.whatsapp-float:hover {
+    background-color: #1eff00;
+}
+
+body.light .whatsapp-float:hover {
+    background-color: #1eff00;
+    color: white;
+}
+

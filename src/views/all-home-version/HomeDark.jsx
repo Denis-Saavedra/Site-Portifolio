@@ -26,10 +26,11 @@ const HomeDark = () => {
       {/* End Switcher */}
       <Tabs>
         <div className="header">
+          
           <TabList className=" icon-menu  revealator-slideup revealator-once revealator-delay1">
             {menuItem.map((item, i) => (
               <Tab className="icon-box" key={i}>
-                <i className={`fa ${item.icon}`}></i>
+                <i className={`fa ${item.icon} `}></i>
                 <h2>{item.menuName}</h2>
               </Tab>
             ))}
