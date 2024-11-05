@@ -22,16 +22,16 @@ const personalInfoContent = [
   { meta: "Sobrenome", metaInfo: "Saavedra" },
   { meta: "Idade", metaInfo: `${calculateAge(birthDate)} Anos` },
   { meta: "Nacionalidade", metaInfo: "Brasileiro" },
-  { meta: "Freelance", metaInfo: "Disponível" },
-  { meta: "Address", metaInfo: "Tunis" },
+  //{ meta: "Freelance", metaInfo: "Disponível" },
+  //{ meta: "Address", metaInfo: "Tunis" },
   { meta: "Telefone", metaInfo: "+55 (11) 96571-8805" },
   { meta: "Idiomas", metaInfo: "Português, Inglês e Espanhol" },
-  { meta: "Email", metaInfo: "denissaavedrafernandes@gmail.com" },
+  //{ meta: "Email", metaInfo: "denissaavedrafernandes@gmail.com" },
 ];
 
 const PersonalInfo = () => {
   return (
-    <ul className="about-list list-unstyled open-sans-font">
+    <><ul className="about-list list-unstyled open-sans-font">
       {personalInfoContent.map((val, i) => (
         <li key={i}>
           <span className="title">{val.meta}: </span>
@@ -41,6 +41,17 @@ const PersonalInfo = () => {
         </li>
       ))}
     </ul>
+    
+    <ul className="about-list list-unstyled open-sans-font">
+      <li>
+        <span className="title">Email: </span>
+        <span className="value ">  
+          denissaavedrafernandes@gmail.com  
+        </span>  
+      </li>
+    </ul>
+    
+    </>
   );
 };
 

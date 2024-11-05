@@ -5,7 +5,6 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import AnimatedCursor from "react-animated-cursor";
 import { ToastContainer } from "react-toastify";
-import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 
 const App = () => {
   // this for animation
@@ -30,15 +29,7 @@ const App = () => {
       {/* End contact */}
       <ToastContainer />
       {/* Same as */}
-       {/*<Tabs>
-        <div className="header">
-          <TabList className=" icon-menu  revealator-slideup revealator-once revealator-delay1">
-            <Tab className="icon-box">*/}
-              <a  class="whatsapp-float fa fa-whatsapp fa-2x" title="Fale conosco no WhatsApp"></a>
-            {/*</Tab>
-          </TabList>
-        </div>
-      </Tabs>*/}
+      <a href="https://wa.me/5511965718805" target="_blank" class="whatsapp-float fa fa-whatsapp fa-2x" title="Fale conosco no WhatsApp"></a>
     </>
   );
 };
