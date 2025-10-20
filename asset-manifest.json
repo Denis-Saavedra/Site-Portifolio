@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Site-Portifolio/static/css/main.6c73d274.css",
-    "main.js": "/Site-Portifolio/static/js/main.32c385f0.js",
+    "main.js": "/Site-Portifolio/static/js/main.dd7d452b.js",
     "static/js/206.f399a73c.chunk.js": "/Site-Portifolio/static/js/206.f399a73c.chunk.js",
     "static/media/dark.jpg": "/Site-Portifolio/static/media/dark.c1cda9e0d5088e62fa77.jpg",
     "static/media/video.mp4": "/Site-Portifolio/static/media/video.d225edd6d7d4d4a8f5b7.mp4",
@@ -26,7 +26,7 @@
     "static/media/rtl.jpg": "/Site-Portifolio/static/media/rtl.fc623d3befe9a7acb1ac.jpg",
     "static/media/img-mobile.jpg": "/Site-Portifolio/static/media/img-mobile.1c43848fd27382e2f0f6.jpg",
     "static/media/rtl-mobile.jpg": "/Site-Portifolio/static/media/rtl-mobile.1c43848fd27382e2f0f6.jpg",
-    "static/media/Curriculum - Denis Saavedra.pdf": "/Site-Portifolio/static/media/Curriculum - Denis Saavedra.4105ecaa64162cd2b51a.pdf",
+    "static/media/Curriculum - Denis Saavedra.pdf": "/Site-Portifolio/static/media/Curriculum - Denis Saavedra.c2de7a9908dad0d648e6.pdf",
     "static/media/slick.svg": "/Site-Portifolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Site-Portifolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/Site-Portifolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -37,6 +37,6 @@
   },
   "entrypoints": [
     "static/css/main.6c73d274.css",
-    "static/js/main.32c385f0.js"
+    "static/js/main.dd7d452b.js"
   ]
 }
