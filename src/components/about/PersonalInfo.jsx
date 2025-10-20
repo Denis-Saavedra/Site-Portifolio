@@ -24,7 +24,7 @@ const personalInfoContent = [
   { meta: "Nacionalidade", metaInfo: "Brasileiro" },
   //{ meta: "Freelance", metaInfo: "Disponível" },
   //{ meta: "Address", metaInfo: "Tunis" },
-  { meta: "Telefone", metaInfo: "+55 (11) 96571-8805" },
+  { meta: "Telefone", metaInfo: "+55 (11) 97550-7171" },
   { meta: "Idiomas", metaInfo: "Português, Inglês e Espanhol" },
   //{ meta: "Email", metaInfo: "denissaavedrafernandes@gmail.com" },
 ];
